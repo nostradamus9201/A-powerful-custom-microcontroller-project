@@ -13,6 +13,8 @@ The "Just a better rp2354 devboard"™   is here to fix all of them.
 
 # Part Images and Schematics
 
+<img width="1377" height="1041" alt="image" src="https://github.com/user-attachments/assets/cc733d9f-a15e-497a-8200-3759817faff9" />
+
 All layers combined
 
 <img width="781" height="770" alt="Screenshot 2025-12-16 142048" src="https://github.com/user-attachments/assets/3d77e353-3eb6-4d28-ae29-9d5b53970774" />
